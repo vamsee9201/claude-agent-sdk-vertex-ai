@@ -7,6 +7,7 @@ env/
 
 # Environment variables
 .env
+.env.example
 
 # Python
 __pycache__/
